@@ -39,6 +39,20 @@ main p{
 }
 
 footer{
+    width: 40%;
+    margin: auto;
     background-color: blue;
     color: aqua;
+}
+
+footer  a{
+    color: aqua;
+}
+
+h3{
+    color: aqua;
+}
+#bemutato_img{
+    width: 250px;
+    height: auto;
 }
