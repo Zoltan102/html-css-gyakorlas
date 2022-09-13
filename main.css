@@ -1,0 +1,44 @@
+body{
+    background-color: darkblue;
+}
+
+
+#title_img{
+    width: 200px;
+    height: 150px;
+}
+
+#nav{
+    width: 50%;
+    margin: auto;
+}
+
+#nav_table{
+    background-color: lightblue;
+    width: 100%;
+}
+
+.nav_a{
+    color: blue;
+    text-decoration: none;
+}
+
+
+main{
+    background-color: blue;
+    width: 70%;
+    margin: auto;
+}
+
+main h1{
+    color: aqua;
+}
+
+main p{
+    color: lightblue;
+}
+
+footer{
+    background-color: blue;
+    color: aqua;
+}
