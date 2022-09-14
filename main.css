@@ -1,5 +1,7 @@
 body{
     background-color: darkblue;
+    max-width: 1023px;
+    margin: auto;
 }
 
 
@@ -36,6 +38,7 @@ main h1{
 
 main p{
     color: lightblue;
+    text-align: justify;
 }
 
 footer{
@@ -55,4 +58,8 @@ h3{
 #bemutato_img{
     width: 250px;
     height: auto;
+}
+
+#map_img{
+    width: 100%;
 }
